@@ -1,5 +1,5 @@
-import Logo from "./components/Logo";
-import Nav from "./components/Nav";
+import Logo from "./_components/Logo";
+import Nav from "./_components/Nav";
 
 export const metadata = {
   title: "Beach Club",
